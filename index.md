@@ -12,7 +12,7 @@ make their advice the best available anywhere.
 - [Community team](http://guide.careervillage.org/#careervillageorg-community-team)-who they are and what they do
 - [What is not allowed](http://guide.careervillage.org/#what-is-not-allowed)
 - [Do’s and Don’ts](http://guide.careervillage.org/#dos-and-donts)
-- [How we respond when content does not meet our guidelines](http://guide.careervillage.org/#what-we-do-when-content-doesnt-meet-our-guidelines)
+- [What we do when content does not meet our guidelines](http://guide.careervillage.org/#what-we-do-when-content-doesnt-meet-our-guidelines)
 - [Changes to our guidelines](http://guide.careervillage.org/#changes-to-our-guidelines)-what happens when our guidelines get updated
 
 ## CareerVillage.org Community Members
@@ -79,7 +79,7 @@ the community from what they’re there to do. Subjects and behavior we never al
 - **Profile photo(s) that are off topic**  
     We define “off topic” in this context as any image that does not have you in it and/or is not relevant to your profession.
 - **Attempts to organize communications outside of our community**  
-    For safety reasons, this includes inviting people to contact you, follow you, or connect with you outside of CareerVillage.org.
+    For safety reasons, this includes directly inviting people to contact you, follow you, or connect with you outside of CareerVillage.org. (***If Professional shares their Twitter or LinkedIn on their About Me section of their CV profile, that is OK)
  
 ## Do’s and Don’ts
 **For Students**  
@@ -166,5 +166,6 @@ Depending on the content and its intent, we will do one or more of the following
 You can see when our guidelines were last updated at the bottom of this post. Updates to our guidelines will inevitably be made as our community grows. When a change is made we will update the guidelines immediately and summarize that update at the bottom of this page in the changelog. We will not notify the community of every change, but do encourage you to check back here to see the changelog as often as you like. 
  
 *[Changelog placeholder]  
+Updated 4/22/2019 J. Rivera - Fixed name of section for consistency [Lines 15 & 147] + 
 Updated 12/19/2017 J. Rivera - Added language rules.
 Updated 6/9/2017 L.Manning
