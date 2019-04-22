@@ -79,7 +79,7 @@ the community from what they’re there to do. Subjects and behavior we never al
 - **Profile photo(s) that are off topic**  
     We define “off topic” in this context as any image that does not have you in it and/or is not relevant to your profession.
 - **Attempts to organize communications outside of our community**  
-    For safety reasons, this includes directly inviting people to contact you, follow you, or connect with you outside of CareerVillage.org. (***If Professional shares their Twitter or LinkedIn on their About Me section of their CV profile, that is OK)
+    For safety reasons, this includes directly inviting people to contact you, follow you, or connect with you outside of CareerVillage.org. (***If Professional shares their Twitter or LinkedIn on their About Me section of their CV profile, that is OK**)
  
 ## Do’s and Don’ts
 **For Students**  
@@ -165,7 +165,7 @@ Depending on the content and its intent, we will do one or more of the following
 
 You can see when our guidelines were last updated at the bottom of this post. Updates to our guidelines will inevitably be made as our community grows. When a change is made we will update the guidelines immediately and summarize that update at the bottom of this page in the changelog. We will not notify the community of every change, but do encourage you to check back here to see the changelog as often as you like. 
  
-**Changelog:
+**Changelog:**
 - Updated 4/22/2019 J.Rivera - Fixed name of section for consistency [Lines 15 & 147] + Added in rule allowing Pros to post LinkedIn & Twitter on About Me
 - Updated 12/19/2017 J.Rivera - Added language rules.
 - Updated 6/9/2017 L.Manning
