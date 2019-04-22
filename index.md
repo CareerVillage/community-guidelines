@@ -165,7 +165,7 @@ Depending on the content and its intent, we will do one or more of the following
 
 You can see when our guidelines were last updated at the bottom of this post. Updates to our guidelines will inevitably be made as our community grows. When a change is made we will update the guidelines immediately and summarize that update at the bottom of this page in the changelog. We will not notify the community of every change, but do encourage you to check back here to see the changelog as often as you like. 
  
-*[Changelog placeholder]  
+**Changelog:
 - Updated 4/22/2019 J.Rivera - Fixed name of section for consistency [Lines 15 & 147] + Added in rule allowing Pros to post LinkedIn & Twitter on About Me
 - Updated 12/19/2017 J.Rivera - Added language rules.
 - Updated 6/9/2017 L.Manning
