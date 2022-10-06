@@ -101,7 +101,7 @@ the community from what they’re there to do. Subjects and behavior we never al
 - Ask for a job, internship, donation, or other form of gift or opportunity. 
 - Post a brand new question (not a follow up to a specific piece of advice) you have as a comment. A brand new question should be 
   posted as a new question, not as a comment!
-- Ask about your homework if you’re only asking do get the assignment done or if your questions about your homework don’t actually 
+- Ask about your homework if you’re only asking to get the assignment done or if your questions about your homework don’t actually 
   pertain to your career or future.
 
 **For professionals**  
