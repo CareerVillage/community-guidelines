@@ -18,7 +18,7 @@ To ensure what’s posted on CareerVillage meets these guidelines, every piece o
 Learners are advice seekers, typically between the age of 13-24, and have not yet entered the workforce. While our main focus is youth, particularly underserved youth, we support all learners, such as returning citizens, career transitioners, and seasoned professionals, regardless of age or work experience. 
 
 **Professionals**  
-Professionals give Learners advice. They are most typically out of school and in the workforce, but we also have college students who give advice to younger peers. Sometimes, professionals are employees of companies who have formed a partnership with us (click [here]([https://www.careervillage.org/partners/](https://www.careervillage.org/partnerships/employee-engagement/?next=)) to read more about our corporate partnerships). 
+Professionals give Learners advice. They are most typically out of school and in the workforce, but we also have college students who give advice to younger peers. Sometimes, professionals are employees of companies who have formed a partnership with us (click [here]([https://www.careervillage.org/partnerships/employee-engagement/)) to read more about our corporate partnerships). 
 
 
  
